@@ -12,7 +12,8 @@ The chronological publication list for Yang is:
 
 
 Other collaborations include:
-[1] D. Lv, Y. Wang, L. Wang, Y. Fei, et. al., "Modular flying vehicles: Scheduling modes, social benefits, and challenges", Communications in Transportation Research, vol. 4, 100144, Dec 2024. 
+
+[1] D. Lv, Y. Wang, L. Wang, Y. Fei, K. Wang and X. Qu, "Modular flying vehicles: Scheduling modes, social benefits, and challenges", Communications in Transportation Research, vol. 4, 100144, Dec 2024. 
 
 [2] B. Sedlak, A. Morichetta, Y. Wang, Y. Fei, L. Wang, S. Dustdar and X. Qu, "SLO-Aware Task Offloading Within Collaborative Vehicle Platoons", International Conference on Service-Oriented Computing, 72-86, Dec 2024. 
 
