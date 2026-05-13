@@ -10,7 +10,7 @@ The chronological publication list for Yang is:
 
 [3] Y. Fei, L. Wang and X. Qu, "Event-Triggered Cooperative Trajectory Coordination for Platooning Among Heterogeneous Vehicles", Transportation Research Part C: Emerging Technologies, vol. 173, pp. 105049, February 2025. 
 
-[4] Y. Fei, Y. Wang, Z. Wei, C. Wang, L. Wang and X. Qu, "Anti-singular control of a hybrid-motion vehicle and experimental validations for its applicability in micro-sized transportation scenarios", Transportation Research Part C: Emerging Technologies, vol. 188, pp. 105698, June 2026. 
+[4] Y. Fei, Y. Wang, Z. Wei, C. Wang, L. Wang and X. Qu, "Anti-singular control of a hybrid-motion vehicle and experimental validations for its applicability in micro-sized transportation scenarios", Transportation Research Part C: Emerging Technologies, vol. 188, pp. 105698, July 2026. 
 
 
 Other collaborations include:
